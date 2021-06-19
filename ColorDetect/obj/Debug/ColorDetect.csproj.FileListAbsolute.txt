@@ -1,0 +1,11 @@
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.Form1.resources
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.Properties.Resources.resources
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.csproj.GenerateResource.cache
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\bin\Debug\ColorDetect.exe.config
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\bin\Debug\ColorDetect.exe
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\bin\Debug\ColorDetect.pdb
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.exe
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.pdb
+C:\Users\kisha\source\repos\ColorDetect\ColorDetect\obj\Debug\ColorDetect.getcords.resources
